@@ -1,0 +1,38 @@
+# Global Fuel Prices and Taxation Trends
+
+## Project Overview
+This project explores global fuel prices and taxation trends using Tableau. It aims to present fuel price data through interactive visualizations and help users understand differences across countries.
+
+## Objectives
+- Analyze fuel prices across countries.
+- Explore differences in petrol and diesel prices, where available.
+- Examine fuel taxation trends using the available dataset.
+- Present insights through charts and dashboards in Tableau.
+
+## Tools Used
+- Tableau Public / Tableau
+- Microsoft Excel or CSV for data handling
+- GitHub for project documentation and version control
+
+## Project Workflow
+1. Obtain and review the fuel price dataset.
+2. Prepare and organize the data.
+3. Create visualizations in Tableau.
+4. Combine the charts into a dashboard.
+5. Document the project and its findings.
+
+## Dashboard
+Dashboard screenshots will be added to this repository.
+
+## Key Findings
+Insights will be documented after reviewing the completed Tableau charts and dataset.
+
+## Project Files
+- `data/` — Dataset, if permitted to share.
+- `tableau/` — Tableau workbook.
+- `screenshots/` — Dashboard screenshots.
+- `PROJECT_REPORT.md` — Project report.
+
+## Conclusion
+This project uses data visualization to explore global fuel prices and taxation patterns. The completed dashboard will help communicate comparisons and trends clearly.
+
