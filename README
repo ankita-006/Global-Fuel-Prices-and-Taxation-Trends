@@ -31,7 +31,7 @@ Insights will be documented after reviewing the completed Tableau charts and dat
 - `data/` — Dataset, if permitted to share.
 - `tableau/` — Tableau workbook.
 - `screenshots/` — Dashboard screenshots.
-- `PROJECT_REPORT.md` — Project report.
+- `Project_Report.md` — Project report.
 
 ## Conclusion
 This project uses data visualization to explore global fuel prices and taxation patterns. The completed dashboard will help communicate comparisons and trends clearly.
